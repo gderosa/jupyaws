@@ -1,0 +1,7 @@
+variables.tf
+.ipynb_checkpoints/
+.terraform/
+*.zip
+terraform-api-gateway-cors-module/
+terraform.tfstate
+terraform.tfstate.backup
